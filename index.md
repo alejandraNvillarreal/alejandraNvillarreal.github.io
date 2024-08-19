@@ -2,9 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Exploratory Data Analysis
 
-[Project 1 Title](/sample_page)
+[🏥 ISIC — Skin Cancer 🔎 EDA](/sample_page)
+![image](https://github.com/user-attachments/assets/435bd967-97d6-4928-8353-f1ec69ab21bc)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
